@@ -6,7 +6,7 @@
     <file type="web" url="file://$PROJECT_DIR$/country-service" />
     <file type="web" url="file://$PROJECT_DIR$/registry-service" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22_PREVIEW" project-jdk-name="22" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
